@@ -7,3 +7,4 @@ has improved my Data Science Knowledge.
 ### _Week-1:_  BIT COIN PRICE PREDICTION Project
 ### _Week-2:_  STOCK MARKET PRICE PREDICTON
 ### _Week-3:_  COVID-19 ANALYSIS (QUANTITATIVE MODELING)
+### _WEEK-4:_  Uber data analysis (Time Series Analysis and ARIMA Model and ANN)
